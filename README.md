@@ -73,3 +73,5 @@
 * 8.8 sqlite3
 * 8.9 decimal
 * 8.10 logging
+
+複数同時代入([問題1](chapter2/Q2_11_1.py),[問題2](chapter2/Q2_11_2.py))
