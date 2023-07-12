@@ -73,3 +73,5 @@
 * 8.8 sqlite3
 * 8.9 decimal
 * 8.10 logging
+
+最終課題:[問題1](chapter2/initial.py),[問題2](chapter2/initial_2.py)
